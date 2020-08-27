@@ -166,7 +166,7 @@
 #     lines = file.readlines()
 
 # for line in lines:
-#     print(lines.rstrip()) 
+#     print(lines.rstrip())
 
 # read mode ('r') write mode ('w') append mode ('a') read/write mode ('r+')
 # with open(filename, 'w) as file:
@@ -178,5 +178,3 @@
 
 # title = 'Alice in Wonderland'
 # print(title.split())
-
-
